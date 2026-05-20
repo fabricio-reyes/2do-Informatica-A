@@ -2,12 +2,12 @@
 
 repositorio oficial de la asignatura  *aplicaciones web y moviles* 
 
-DESCRIPCION 
+# DESCRIPCION 
 
 
 En esta asignatura los estudiantes desarrollarán habilidades para el diseño y construcción de aplicaciones web interactivas utilizando tecnologías modernas del desarrollo frontend.
 
-EL ENFOQUE DE LA MATERIA ESTA BASADO EN:
+# EL ENFOQUE DE LA MATERIA ESTA BASADO EN:
 
 Aprendizaje Basado en Proyectos (ABP)
 Desarrollo practico de software
@@ -16,7 +16,7 @@ Trabajo colaborativo y resolución de problemas.
 
 
 
-OBJETIVO DE LA ASIGNATURA 
+# OBJETIVO DE LA ASIGNATURA 
 
 
 Al finalizar el curso, el estudiante será capaz de:
@@ -29,7 +29,7 @@ Construir proyectos web con enfoque móvil
 Aplicar buenas prácticas de desarrollo.
 
 
-TECNOLOGIA UTILIZADA
+# TECNOLOGIA UTILIZADA
 
 Tecnología	Uso
 HTML5	Estructura de páginas
@@ -38,7 +38,7 @@ JavaScript	Interactividad y lógica
 GitHub	Gestión de proyectos y códigos
 
 
-ORGANIZACION DEL REPOSITORIO 
+# ORGANIZACION DEL REPOSITORIO 
 
 unidad-1/ → Fundamentos web interactivos
 unidad-2/ → Lógica aplicada con JavaScript
